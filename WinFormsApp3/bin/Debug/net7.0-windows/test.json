@@ -1,0 +1,30 @@
+{
+  "Controls": [
+    {
+      "Name": "Lbl_841",
+      "Text": "Nuevo Texto",
+      "Location": {
+        "X": 199,
+        "Y": 123
+      },
+      "Size": {
+        "Width": 102,
+        "Height": 20
+      },
+      "Type": "Label"
+    },
+    {
+      "Name": "Txb_192_3",
+      "Text": "Txb_192_3",
+      "Location": {
+        "X": 319,
+        "Y": 123
+      },
+      "Size": {
+        "Width": 100,
+        "Height": 26
+      },
+      "Type": "TextBox"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Controls": [
+    {
+      "Type": "Label",
+      "Name": "Lbl_704",
+      "Text": "Shanu",
+      "Location": {
+        "X": 634,
+        "Y": 188
+      },
+      "Size": {
+        "Width": 100,
+        "Height": 23
+      }
+    },
+    {
+      "Type": "Label",
+      "Name": "Lbl_577",
+      "Text": "Shanu",
+      "Location": {
+        "X": 374,
+        "Y": 155
+      },
+      "Size": {
+        "Width": 100,
+        "Height": 23
+      }
+    }
+  ]
+}
